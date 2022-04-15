@@ -1,0 +1,12 @@
+.main1 h1{
+    color: brown;
+}
+.main1 p{
+    font-style: italic;
+}
+.main2>h1{
+    background-color: aquamarine;
+}
+.main2>p{
+    font-size: 20px;
+}
